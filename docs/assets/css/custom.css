@@ -1,0 +1,33 @@
+@media screen and (max-width: 768px) {
+  aside {
+    display: none !important;
+  }
+}
+p.w-100.text-center, p.w-100.text-center a {
+  color: gray !important;
+}
+p.w-100.text-center a[href="#"] {
+  // display: none !important;
+}
+pre {
+  // border: 1px solid #d2d3d7 !important;
+  border-radius: 3px !important;
+  padding: 1rem !important;
+}
+code {
+  border-radius: 3px !important;
+  padding: 0.2rem 0.4rem !important;
+}
+pre code {
+  padding: 0 !important;
+}
+pre, code, pre code {
+  background: #f6f8fa !important;
+  color: #000 !important;
+  font-size: 85% !important;
+}
+blockquote {
+  border-left: 0.25rem solid #dfe2e5 !important;
+  color: #6a737d !important;
+  padding: 0 1rem !important;
+}
