@@ -4,16 +4,27 @@
 .blog-post img {
   max-width: 100%;
 }
+html {
+  min-height: 100% !important;
+  position: relative !important;
+}
+body {
+  margin-bottom: 100px !important;
+}
+footer {
+  bottom: 0 !important;
+  position: absolute !important;
+}
 @media screen and (max-width: 768px) {
   aside {
     display: none !important;
   }
 }
-p.w-100.text-center, p.w-100.text-center a {
-  color: gray !important;
-}
 p.w-100.text-center a[href="#"] {
   // display: none !important;
+}
+p.w-100.text-center, p.w-100.text-center a {
+  color: gray !important;
 }
 pre {
   // border: 1px solid #d2d3d7 !important;
