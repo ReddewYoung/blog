@@ -20,7 +20,7 @@ footer {
     display: none !important;
   }
 }
-p.w-100.text-center a[href="#"] {
+p.w-100.text-center a[href="#top"] {
   // display: none !important;
 }
 p.w-100.text-center, p.w-100.text-center a {
