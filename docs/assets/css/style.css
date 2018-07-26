@@ -20,11 +20,11 @@ footer {
     display: none !important;
   }
 }
-p.w-100.text-center a[href="#top"] {
+div.text-center.text-md-right a[href="#top"] {
   // display: none !important;
 }
-p.w-100.text-center, p.w-100.text-center a {
-  color: gray !important;
+div.text-center.text-md-left, div.text-center.text-md-right a {
+  color: darkgray !important;
 }
 pre {
   // border: 1px solid #d2d3d7 !important;
