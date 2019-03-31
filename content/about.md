@@ -2,4 +2,4 @@
 title: About
 ---
 
-Hello, I am Reddew Young. :blush:
+Hello, I'm Reddew Young. :blush:
