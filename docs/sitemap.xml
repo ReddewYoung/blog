@@ -3,6 +3,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.reddewyoung.com/archives/god-bless-us/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.reddewyoung.com/archives/markdown/</loc>
     <lastmod>2018-07-09T00:00:00+00:00</lastmod>
   </url>
@@ -23,7 +28,7 @@
   
   <url>
     <loc>https://www.reddewyoung.com/archives/</loc>
-    <lastmod>2018-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -39,14 +44,20 @@
   </url>
   
   <url>
+    <loc>https://www.reddewyoung.com/categories/life/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.reddewyoung.com/tags/markdown/</loc>
-    <lastmod>2018-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.reddewyoung.com/</loc>
-    <lastmod>2018-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
